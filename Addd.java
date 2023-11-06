@@ -83,7 +83,8 @@ public class Addd {
                     System.out.println("New element added to the XML file.");
          			System.out.println("Validation successful: add.xml is valid against the schema.");
 
-            System.out.println("New element added to the XML file.");
+          
+            System.out.println("I have added a new line in a code");
 
         } catch (ParserConfigurationException | IOException | TransformerException | org.xml.sax.SAXException e) {
             e.printStackTrace();
