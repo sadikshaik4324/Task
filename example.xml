@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<employee>
+                              
+    
+    
+    
+    
+    
+    
+    <emp>
+                                                            
+        
+        
+        
+        
+        
+        
+        <id>101</id>
+                                                            
+        
+        
+        
+        
+        
+        
+        <name>sadik</name>
+                                                            
+        
+        
+        
+        
+        
+        
+        <salary>20000</salary>
+                                                           
+    
+    
+    
+    
+    
+    
+    </emp>
+                            
+    
+    
+    
+    
+    
+    
+    <emp>
+                                                        
+        
+        
+        
+        
+        
+        <id>2</id>
+                                                        
+        
+        
+        
+        
+        
+        <name>sai</name>
+                                                        
+        
+        
+        
+        
+        
+        <salary>2</salary>
+                                                    
+    
+    
+    
+    
+    
+    </emp>
+                            
+    
+    
+    
+    
+    
+    
+    <emp>
+                                                        
+        
+        
+        
+        
+        
+        <id>3</id>
+                                                        
+        
+        
+        
+        
+        
+        <name>mallesh</name>
+                                                        
+        
+        
+        
+        
+        
+        <salary>5000</salary>
+                                                    
+    
+    
+    
+    
+    
+    </emp>
+                            
+    
+    
+    
+    
+    
+    
+    <emp>
+                                                        
+        
+        
+        
+        
+        
+        <id>4</id>
+                                                        
+        
+        
+        
+        
+        
+        <name>vishnu</name>
+                                                        
+        
+        
+        
+        
+        
+        <salary>6000</salary>
+                                                    
+    
+    
+    
+    
+    
+    </emp>
+                            
+    
+    
+    
+    
+    
+    
+    <emp>
+                                                        
+        
+        
+        
+        
+        
+        <id>5</id>
+                                                        
+        
+        
+        
+        
+        
+        <name>koushik</name>
+                                                        
+        
+        
+        
+        
+        
+        <salary>7000</salary>
+                                                    
+    
+    
+    
+    
+    
+    </emp>
+                            
+    
+    
+    
+    
+    
+    
+    <emp>
+                                                        
+        
+        
+        
+        
+        
+        <id>6</id>
+                                                        
+        
+        
+        
+        
+        
+        <name>EFDS</name>
+                                                        
+        
+        
+        
+        
+        
+        <salary>23455</salary>
+                                                    
+    
+    
+    
+    
+    
+    </emp>
+                            
+    
+    
+    
+    
+    
+    
+    <emp>
+                                                        
+        
+        
+        
+        
+        
+        <id>324</id>
+                                                        
+        
+        
+        
+        
+        
+        <name>sadik</name>
+                                                        
+        
+        
+        
+        
+        
+        <salary>28000</salary>
+                                                    
+    
+    
+    
+    
+    
+    </emp>
+                            
+    
+    
+    
+    
+    
+    
+    <emp>
+                                                        
+        
+        
+        
+        
+        
+        <id>325</id>
+                                                        
+        
+        
+        
+        
+        
+        <name>jani</name>
+                                                        
+        
+        
+        
+        
+        
+        <salary>30000</salary>
+                                                    
+    
+    
+    
+    
+    
+    </emp>
+                        
+    
+    
+    
+    
+    
+    <emp>
+                                                
+        
+        
+        
+        
+        <id>326</id>
+                                                
+        
+        
+        
+        
+        <name>waseem</name>
+                                                
+        
+        
+        
+        
+        <salary>40000</salary>
+                                            
+    
+    
+    
+    
+    </emp>
+                    
+    
+    
+    
+    
+    <emp>
+                                        
+        
+        
+        
+        <id>22</id>
+                                        
+        
+        
+        
+        <name>sdgsf</name>
+                                        
+        
+        
+        
+        <salary>2354324</salary>
+                                    
+    
+    
+    
+    </emp>
+                
+    
+    
+    
+    <emp>
+                                
+        
+        
+        <id>534</id>
+                                
+        
+        
+        <name>sdacdv</name>
+                                
+        
+        
+        <salary>23234</salary>
+                            
+    
+    
+    </emp>
+            
+    
+    
+    <emp type="fulltime">
+                        
+        
+        <id>90</id>
+                        
+        
+        <name>jack</name>
+                        
+        
+        <salary>50000</salary>
+                    
+    
+    </emp>
+        
+    
+    <emp type="fulltime">
+                
+        <id>678</id>
+                
+        <name>mahesh</name>
+                
+        <salary>7848438</salary>
+            
+    </emp>
+    
+    <emp type="demo">
+        <id>1</id>
+        <name>d1</name>
+        <salary>300</salary>
+    </emp>
+</employee>
